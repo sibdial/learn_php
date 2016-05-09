@@ -1,0 +1,6 @@
+{
+  "name": "i_am_learning_php",
+  "dependencies": {
+    "jquery": "^2.2.3"
+  }
+}
